@@ -1,5 +1,5 @@
 Engine/Binaries/Win64/UE4Game.exe	2017-08-25T07:37:30.052Z
-MyProject_kitamura.exe	2017-08-29T08:23:11.345Z
+MyProject_kitamura.exe	2017-08-30T01:39:12.354Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2017-08-25T07:36:17.610Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.dll	2017-08-25T07:36:17.488Z
 Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll	2017-08-25T07:36:25.826Z
